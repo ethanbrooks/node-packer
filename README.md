@@ -1,3 +1,7 @@
+https://medium.com/@thekeithchester/node-packer-341f0dc8beb9
+https://www.npmjs.com/package/node-packer
+
+
 node-packer
 ===================
 A convenient wrapper module to control Packer
